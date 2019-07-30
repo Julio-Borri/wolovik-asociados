@@ -1,13 +1,12 @@
 import React from 'react';
-import { Container, Row, Col, } from 'react-bootstrap';
+import { Container, } from 'react-bootstrap';
 import styled from 'styled-components';
-import bgHeader from '../../img/bgWolovik2.jpg'
+import bgHeader from '../../img/bgWolovik2.jpg';
 
 export default function HomePicture() {
   return (
     <ContainerPictureHome fluid>
     
-      
     </ContainerPictureHome>
   )
 }

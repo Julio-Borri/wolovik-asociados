@@ -5,7 +5,7 @@ import { withTranslation } from 'react-i18next';
 
 function CarouselHome({ t }) {
   return (
-    <Container fluid style={{ height: "300px", }}>
+    <Container fluid style={{ height: "300px", maxWidth: "1200px",}}>
       <Carousel style={{ height: "300px", }}>
         <Carousel.Item>
           <TextResponsive className="w-75 m-auto d-flex align-items-center justify-content-center"

@@ -28,7 +28,7 @@ export const ImgResponsive = styled.img`
 `
 
 export const TextResponsive = styled.h3`
-  color: var(--mainBlue);
+  color: ${props => props.color || "var(--mainBlue)"};;
   font-family: 'Times New Roman', 'TimesNewRoman',Times,'Baskerville',Georgia,serif; 
   font-size: ${props => props.largeHeight};
   @media screen and (max-width: 992px) {
@@ -37,4 +37,11 @@ export const TextResponsive = styled.h3`
   @media screen and (max-width: 600px) {
     font-size: ${props => props.smallHeight};
   };
+`
+
+export const ParagraphFooter = styled.p`
+  color: white;
+  font-size: 12px;
+  line-height: 14px;
+
 `
