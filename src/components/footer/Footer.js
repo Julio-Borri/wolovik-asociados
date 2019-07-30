@@ -57,7 +57,7 @@ function Footer({ t }) {
             </div>
           </div>
           <div className="my-3">
-            <span className="text-secondary font-italic">{t('Footer.copyright')}</span><br />
+            <span className="text-secondary font-italic" style={{fontSize:"14px"}} >{t('Footer.copyright')}</span><br />
           </div>
         </Col>
 
