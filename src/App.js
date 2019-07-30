@@ -1,26 +1,24 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import { withTranslation } from 'react-i18next';
+import { Switch, Route, } from 'react-router-dom';
+import NavbarW from './components/NavbarW';
+import Home from './components/home/Home';
+import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
+function App({ t }) {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <React.Fragment>
+      <NavbarW />
+      <Switch>
+        <Route path="/" exact component={Home} />
+      </Switch>
+    </React.Fragment>
+
+
+
   );
 }
 
-export default App;
+export default withTranslation('translations')(App);

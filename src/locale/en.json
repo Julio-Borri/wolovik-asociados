@@ -1,0 +1,29 @@
+{
+  "translations": 
+  {
+    "links": 
+    [
+      {
+        "text": "The Firm.",
+        "url": "/"
+      },
+      {
+        "text": "Lawyers.",
+        "url": "/lawyers"
+      },
+      {
+        "text": "Practice Areas.",
+        "url": "/legal-practice-areas"
+      },
+      {
+        "text": "Newsletter.",
+        "url": "/newsletter"
+      }
+    ],
+    "Carousel": {
+      "text1": "We assess Small, Medium and Large Companies with their business development and conflicts resolution.",
+      "text2": "Law Firm focused on businesses comprehensive attention."
+    }
+    
+  }
+}

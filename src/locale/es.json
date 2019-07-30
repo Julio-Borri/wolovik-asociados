@@ -1,0 +1,27 @@
+{
+  "translations": {
+    "links": 
+    [
+      {
+        "text": "Estudio.",
+        "url": "/"
+      },
+      {
+        "text": "Abogados.",
+        "url": "/lawyers"
+      },
+      {
+        "text": "Áreas de Práctica.",
+        "url": "/legal-practice-areas"
+      },
+      {
+        "text": "Newsletter.",
+        "url": "/newsletter"
+      }
+    ],
+    "Carousel": {
+      "text1": "Asesoramiento a Grandes, Pequeñas y Medianas Empresas en el desarrollo de sus negocios y resolución de sus conflictos.",
+      "text2": "Estudio Jurídico orientado a la atención integral de empresas."
+    }
+  }
+}
