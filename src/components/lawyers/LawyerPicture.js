@@ -1,5 +1,5 @@
 import React from 'react';
-import bgHeader from '../../img/bgWolovik2.jpg';
+import bgHeader from '../../img/bgWolovik1.jpg';
 import { ContainerPictureHome, } from '../shared components/styledComponents';
 
 export default function HomePicture() {

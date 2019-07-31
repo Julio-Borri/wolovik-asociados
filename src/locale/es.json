@@ -36,6 +36,7 @@
       "text6": "A tal fin, el Estudio dispone de todas las herramientas necesarias para llevar adelante un efectivo logro de los resultados."
     },
     "Footer": {
+      "clients": "Confían en Nosotros.",
       "title1": "Contactanos.",
       "title2": "Recibí nuestras novedades.",
       "telephone": {
@@ -61,6 +62,77 @@
         "button": "Suscribirse",
         "placeholder": "Ingresá tu correo"
       }
+    },
+    "contactForm": {
+      "title": "Contacto.",
+      "form": {
+        "name": "Nombre.",
+        "email": "Email.",
+        "telephone": "Teléfono.",
+        "company": "Empresa.",
+        "consultation": "Consulta.",
+        "button": "Enviar."
+      }
+    },
+    "lawyers": {
+      "partners": {
+        "title": "Socios.",
+        "members": [
+          {
+            "member": "Valentina Wolovik",
+            "img": "",
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba. ",
+            "text2": "En ese mismo año, comenzó su actividad profesional en los Tribunales Provinciales de Córdoba, desempeñándose como pasante en la  “Sala Décima del Trabajo”. A nivel académico, en el año 1998, se incorporó como Adscripta a la Cátedra de Derecho del Trabajo y la Seguridad Social en la Universidad Nacional de Córdoba. ",
+            "text3": "En el año 1999, se incorporó al “Estudio Jurídico Julio Manuel González & Asociados”, firma dedicada al asesoramiento de empresas, como  “Abogada Consultora Junior”. En esta etapa manejó asuntos laborales y ejecuciones prendarias de grandes empresas.  En el año 1999, se incorporó al “Estudio Jurídico Julio Manuel González & Asociados”, firma dedicada al asesoramiento de empresas, como  “Abogada Consultora Junior”. En esta etapa manejó asuntos laborales y ejecuciones prendarias de grandes empresas.  ",
+            "text4": "En el año 2001, se incorporó al Estudio jurídico “Gatica & Chasseing – Abogados”, firma dedicada tal asesoramiento de empresas, donde se desempeñó como “Abogada Consultora Senior” en asuntos laborales y sindicales. Allí también realizó el asesoramiento y el seguimiento de juicios laborales de importantes empresas A mediados del año 2006, dejó el estudio Gatica & Chasseing – Abogados. ",
+            "text5": "A fines del 2006, se incorporó como socia del estudio  'Sappia & Asociados', dedcado exclusivamente al asesoramiento del Derecho Laboral (tanto individual como colectivo), en la oficina ubicada en calle Santa Rosa Nro. 938, 1ero A, de la ciudad de Córdoba.  En noviembre de 2012, se hizo cargo de la oficina Cerro de las Rosas del mismo estudio. ",
+            "text6": "En enero de 2019, formó su propio estudio: 'Wolovik & Asociados - Abogados', en el que conjuntamente con un equipo de profesionales especializado, realiza el asesoramiento a empresas tanto pequeñas como grandes, interviniendo en litigios en toda la Provincia de Córdoba, asesoramiento y acompañamiento administrativo en el Ministerio de Trabajo  y asesoramiento e intervención en conflictos gremiales. Realiza constantemente cursos de perfeccionamiento y trabajos de investigación relacionados con el área profesional que ejerce."
+          }
+        ]
+        
+      },
+      "associates": {
+        "title": "Asociados.",
+        "members":[
+          {
+            "member": "Abogado 1",
+            "img": "",
+            "text1": ""
+          },
+          {
+            "member": "Abogado 2",
+            "img": "",
+            "text1": ""
+          },
+          {
+            "member": "Abogado 3",
+            "img": "",
+            "text1": ""
+          }
+        ]
+      },
+      "ofCounsel": {
+        "title": "Consultores.",
+        "members":[
+          {
+            "member": "Consultor 1",
+            "img": "",
+            "text1": ""
+          },
+          {
+            "member": "Consultor 2",
+            "img": "",
+            "text1": ""
+          },
+          {
+            "member": "Consultor 3",
+            "img": "",
+            "text1": ""
+          }
+        ]
+      }
+      
+     
     }
   }
 }

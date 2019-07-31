@@ -9,10 +9,16 @@ import brandLogo from '../../img/WolovikLogoCompletoBlanco.png';
 function Footer({ t }) {
   return (
     <Container fluid className="bg-dark mt-5 pb-2">
+      <Row className="bg-light">
+        <TextResponsive className="ml-3 my-5"
+          largeHeight="25px" normalHeight="25px" smallHeight="20px" color="gray">
+          {t('Footer.clients')}
+        </TextResponsive>
+      </Row>
       <Row className="m-auto px-4">
         <Col xs={12} md={4} className="d-flex align-items-center justify-content-center">
-          <ImgResponsive src={brandLogo} alt="Brand Logo" largeHeight="70px" normalHeight="60px" smallHeight="60px" 
-          className="my-4" />
+          <ImgResponsive src={brandLogo} alt="Brand Logo" largeHeight="70px" normalHeight="60px" smallHeight="60px"
+            className="my-4" />
 
         </Col>
         <Col xs={12} md={4}>
@@ -57,7 +63,7 @@ function Footer({ t }) {
             </div>
           </div>
           <div className="my-3">
-            <span className="text-secondary font-italic" style={{fontSize:"14px"}} >{t('Footer.copyright')}</span><br />
+            <span className="text-secondary font-italic" style={{ fontSize: "14px" }} >{t('Footer.copyright')}</span><br />
           </div>
         </Col>
 

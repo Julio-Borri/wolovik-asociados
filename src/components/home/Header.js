@@ -1,8 +1,7 @@
 import React from 'react';
-import { Container, Row, Col, } from 'react-bootstrap';
-import { ImgResponsive, } from '../shared components/styledComponents';
+import { Row, Col, } from 'react-bootstrap';
+import { ImgResponsive, HeaderContainer, } from '../shared components/styledComponents';
 import brandLogo from '../../img/WolovikLogoCompleto.png';
-import styled from 'styled-components';
 
 export default function Header() {
   return (
@@ -16,13 +15,3 @@ export default function Header() {
   )
 }
 
-const HeaderContainer = styled(Container)`
-  height: 250px;
-  @media screen and (max-width: 992px) {
-    height: 200px;
-  };
-  @media screen and (max-width: 600px) {
-    height: 170px;
-  };
-
-`

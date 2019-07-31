@@ -1,5 +1,5 @@
 import styled from 'styled-components';
-import { Navbar, Nav, } from 'react-bootstrap';
+import { Navbar, Nav, Container, } from 'react-bootstrap';
 
 export const NavToggle = styled(Navbar.Toggle)`
 :focus { outline: none !important; };
@@ -43,5 +43,22 @@ export const ParagraphFooter = styled.p`
   color: white;
   font-size: 12px;
   line-height: 14px;
+`
 
+export const HeaderContainer = styled(Container)`
+  height: 250px;
+  @media screen and (max-width: 992px) {
+    height: 200px;
+  };
+  @media screen and (max-width: 600px) {
+    height: 170px;
+  };
+`
+
+export const ContainerPictureHome = styled(Container)`
+  height: 400px;
+  background: linear-gradient(to bottom, white, rgba(127, 127, 213, 0.6), rgba(134, 168, 231, 0.6)), url(${props => props.bg});
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 `

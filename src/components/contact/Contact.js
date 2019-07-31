@@ -1,23 +1,24 @@
 import React from 'react';
 import { Container, Row, Col, } from 'react-bootstrap';
-import { ImgResponsive, TextResponsive, } from '../shared components/styledComponents';
+import { ImgResponsive, TextResponsive, HeaderContainer, } from '../shared components/styledComponents';
 import brandLogo from '../../img/WolovikLogoCompleto.png';
+import ContactForm from './ContactForm';
+import { withTranslation, } from 'react-i18next';
 
-export default function Lawyers() {
+function Lawyers({ t }) {
   return (
-    <Container style={{height:"80vh",}}>
-      <Row >
-        <Col className="d-flex align-items-end justify-content-center" style={{marginTop:"180px",}}>
-          <ImgResponsive src={brandLogo} alt="Brand Logo" largeHeight="100px" normalHeight="60px" smallHeight="60px" />
-        </Col>
-      </Row>
-      <Row>
-        <TextResponsive className="w-75 m-auto d-flex align-items-center justify-content-center"
-          largeHeight="45px" normalHeight="30px" smallHeight="25px"
-          style={{ height: "300px", }} >
-          Proximamente
-        </TextResponsive>
-      </Row>
-    </Container>
+    <React.Fragment>
+      <HeaderContainer fluid className="d-flex align-items-end justify-content-center">
+        <Row>
+          <Col>
+            <ImgResponsive src={brandLogo} alt="Brand Logo" largeHeight="100px" normalHeight="60px" smallHeight="60px" />
+          </Col>
+        </Row>
+      </HeaderContainer>
+      <ContactForm />
+
+    </React.Fragment>
   )
 }
+
+export default withTranslation ('translations')(Lawyers);
