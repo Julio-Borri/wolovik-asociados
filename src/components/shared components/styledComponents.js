@@ -39,6 +39,19 @@ export const TextResponsive = styled.h3`
   };
 `
 
+export const TextResponsiveWhiteShadow = styled.h3`
+  color: ${props => props.color || "var(--mainBlue)"};;
+  font-family: 'Times New Roman', 'TimesNewRoman',Times,'Baskerville',Georgia,serif; 
+  font-size: ${props => props.largeHeight};
+  text-shadow: 1px 1px 2px white, -1px -1px 2px white, 1px 1px 2px white;
+  @media screen and (max-width: 992px) {
+    font-size: ${props => props.normalHeight};
+  };
+  @media screen and (max-width: 600px) {
+    font-size: ${props => props.smallHeight};
+  };
+`
+
 export const ParagraphFooter = styled.p`
   color: white;
   font-size: 12px;
@@ -61,4 +74,21 @@ export const ContainerPictureHome = styled(Container)`
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
+  margin-bottom: 70px;
 `
+export const ContainerPictureHome2 = styled(Container)`
+  height: 700px;
+  background: linear-gradient(to bottom, white, white, rgba(127, 127, 213, 0.6), rgba(134, 168, 231, 0.6)), url(${props => props.bg});
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  margin-bottom: 70px;
+`
+
+export const AnchorClean = styled.a`
+  color: inherit;
+  text-decoration: none !important;
+  :hover{
+    color: darkgrey;
+  };
+` 

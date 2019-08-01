@@ -14,15 +14,15 @@ function Newsletter({ t }) {
           </Col>
         </Row>
       </HeaderContainer>
-      <Container>
-        <Row>
-          <Col>
-            <TextResponsive largeHeight="40px" normalHeight="30px" smallHeight="25px" className="mb-3">
-              {t('contactForm.title')}
-            </TextResponsive>
-          </Col>
-        </Row>
-      </Container>
+      <Container style={{height:"50vh",}}>
+      <Row>
+        <TextResponsive className="w-75 m-auto d-flex align-items-center justify-content-center"
+          largeHeight="45px" normalHeight="30px" smallHeight="25px"
+          style={{ height: "300px", }} >
+          Proximamente
+        </TextResponsive>
+      </Row>
+    </Container>
     </React.Fragment>
   )
 }

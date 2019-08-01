@@ -7,11 +7,11 @@ import { TextResponsive, } from '../shared components/styledComponents';
 function LawyerList({ t }) {
   
   const partnersList = t('lawyers.partners.members', { returnObjects: true }).map(
-    item => <ListItemLawyers text={item.member} />)
+    item => <ListItemLawyers item={item} />)
   const associatesList = t('lawyers.associates.members', { returnObjects: true }).map(
-    item => <ListItemLawyers text={item.member} />)
+    item => <ListItemLawyers item={item} />)
   const ofCounselList = t('lawyers.ofCounsel.members', { returnObjects: true }).map(
-    item => <ListItemLawyers text={item.member} />)
+    item => <ListItemLawyers item={item} />)
 
   return (
     <Container className="my-5">

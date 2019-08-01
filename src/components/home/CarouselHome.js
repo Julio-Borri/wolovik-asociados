@@ -9,16 +9,23 @@ function CarouselHome({ t }) {
       <Carousel style={{ height: "300px", }}>
         <Carousel.Item>
           <TextResponsive className="w-75 m-auto d-flex align-items-center justify-content-center"
-            largeHeight="45px" normalHeight="30px" smallHeight="25px"
+            largeHeight="40px" normalHeight="25px" smallHeight="25px"
             style={{ height: "300px", }} >
-            {t('Carousel.text1')}
+            {t('Carousel.text3')}
           </TextResponsive>
         </Carousel.Item>
         <Carousel.Item>
           <TextResponsive className="w-75 m-auto d-flex align-items-center justify-content-center"
-            largeHeight="45px" normalHeight="30px" smallHeight="25px"
+            largeHeight="35px" normalHeight="25px" smallHeight="20px"
             style={{ height: "300px", }} >
-            {t('Carousel.text2')}
+            {t('Carousel.text4')}
+          </TextResponsive>
+        </Carousel.Item>
+        <Carousel.Item>
+          <TextResponsive className="w-75 m-auto d-flex align-items-center justify-content-center"
+            largeHeight="30px" normalHeight="25px" smallHeight="18px"
+            style={{ height: "300px", }} >
+            {t('Carousel.text5')}
           </TextResponsive>
         </Carousel.Item>
       </Carousel>

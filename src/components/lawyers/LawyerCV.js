@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, } from 'react-bootstrap';
+import { Row, Col, } from 'react-bootstrap';
 import imgCv1 from '../../img/ValentinaWolovik.png';
 import styled from 'styled-components';
 import { withTranslation, } from 'react-i18next';
@@ -7,10 +7,7 @@ import { TextResponsive, } from '../shared components/styledComponents';
 
 function LawyerCV({ t }) {
   return (
-    <Container className="mt-5 px-4">
-      <TextResponsive largeHeight="35px" normalHeight="30px" smallHeight="30px" className="mb-5">
-        {t('lawyers.partners.title')}
-      </TextResponsive>
+    <React.Fragment>
       <Row>
         <Col xs={12} md={4}>
           <DivImg></DivImg>
@@ -31,7 +28,7 @@ function LawyerCV({ t }) {
           <p>{t('lawyers.partners.members.0.text6')}</p>
         </Col>
       </Row>
-    </Container>
+    </React.Fragment>
   )
 }
 

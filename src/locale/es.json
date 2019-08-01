@@ -6,6 +6,10 @@
         "url": "/"
       },
       {
+        "text": "Estudio2.",
+        "url": "/2"
+      },
+      {
         "text": "Abogados.",
         "url": "/lawyers"
       },
@@ -24,7 +28,10 @@
     ],
     "Carousel": {
       "text1": "Asesoramiento a Grandes, Pequeñas y Medianas Empresas en el desarrollo de sus negocios y resolución de sus conflictos.",
-      "text2": "Estudio Jurídico orientado a la atención integral de empresas."
+      "text2": "Estudio Jurídico orientado a la atención integral de empresas.",
+      "text3": "Asesoramiento en materia del derecho laboral a Pequeñas, Medianas y Grandes Empresas.",
+      "text4": "Brindamos a nuestros clientes acompañamiento y asistencia personalizada, trabajando codo a codo con el área de recursos humanos, involucrándonos en la Política laboral de la empresa.",
+      "text5": "Este concepto tiene como premisa la prevención de riesgos y disminución de contingencias laborales, no solo en las relaciones individuales del trabajo sino también en las relaciones colectivas (negociación e intervención en conflictos gremiales). "
     },
     "MainEstudio": {
       "title": "El Estudio.",
@@ -79,6 +86,8 @@
         "title": "Socios.",
         "members": [
           {
+            "id": "101",
+            "href": "#101",
             "member": "Valentina Wolovik",
             "img": "",
             "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba. ",
@@ -95,19 +104,28 @@
         "title": "Asociados.",
         "members":[
           {
+            "id": "201",
+            "href": "#201",
             "member": "Abogado 1",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "202",
+            "href": "#202",
             "member": "Abogado 2",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "203",
+            "href": "#203",
             "member": "Abogado 3",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           }
         ]
       },
@@ -115,19 +133,28 @@
         "title": "Consultores.",
         "members":[
           {
+            "id": "301",
+            "href": "#301",
             "member": "Consultor 1",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "302",
+            "href": "#302",
             "member": "Consultor 2",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "303",
+            "href": "#303",
             "member": "Consultor 3",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           }
         ]
       }

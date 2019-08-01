@@ -6,7 +6,7 @@ import styled from 'styled-components';
 
 function MainEstudio({ t }) {
   return (
-    <Container className="mt-5 px-5" style={{maxWidth: "1000px",}}>
+    <Container className="mt-5 px-4" style={{maxWidth: "1000px",}}>
       <Row className="mb-3">
         <Col>
           <TextResponsive largeHeight="40px" normalHeight="30px" smallHeight="25px">

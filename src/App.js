@@ -4,6 +4,7 @@ import { withTranslation } from 'react-i18next';
 import { Switch, Route, } from 'react-router-dom';
 import NavbarW from './components/NavbarW';
 import Home from './components/home/Home';
+import Home2 from './components/home/Home2';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import Footer from './components/footer/Footer';
 import Lawyers from './components/lawyers/Lawyers';
@@ -17,6 +18,7 @@ function App({ t }) {
       <NavbarW />
       <Switch>
         <Route path="/" exact component={Home} />
+        <Route path="/2" exact component={Home2} />
         <Route path="/lawyers" component={Lawyers} />
         <Route path="/legal-practice-areas" component={PracticeAreas} />
         <Route path="/newsletter" component={Newsletter} />

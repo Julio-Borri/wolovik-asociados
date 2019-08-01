@@ -1,9 +1,13 @@
 import React from 'react';
 import bgHeader from '../../img/bgWolovik2.jpg';
 import { ContainerPictureHome, } from '../shared components/styledComponents';
+import { withTranslation, } from 'react-i18next';
 
-export default function HomePicture() {
+function HomePicture({ t }) {
   return (
-    <ContainerPictureHome fluid bg={bgHeader} />
+    <ContainerPictureHome fluid bg={bgHeader}>
+    </ContainerPictureHome>
   )
 }
+
+export default withTranslation('translations')(HomePicture);

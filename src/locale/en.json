@@ -8,6 +8,10 @@
         "url": "/"
       },
       {
+        "text": "The Firm2.",
+        "url": "/2"
+      },
+      {
         "text": "Lawyers.",
         "url": "/lawyers"
       },
@@ -26,7 +30,9 @@
     ],
     "Carousel": {
       "text1": "We assess Small, Medium and Large Companies with their business development and conflicts resolution.",
-      "text2": "Law Firm focused on businesses comprehensive attention."
+      "text2": "Law Firm focused on businesses comprehensive attention.",
+      "text3": "Asesoramiento en materia del derecho laboral a Pequeñas, Medianas y Grandes Empresas. Brindamos a nuestros clientes acompañamiento y asistencia personalizada. ",
+      "text4": "Trabajamos codo a codo con el área de recursos humanos, involucrándonos en la  Política laboral de la empresa. Este concepto tiene como premisa la prevención de riesgos y disminución de contingencias laborales, no solo en las relaciones individuales del trabajo sino también en las relaciones colectivas (negociación e intervención en conflictos gremiales). "
     },
     "MainEstudio": {
       "title": "The Firm.",
@@ -81,9 +87,16 @@
         "title": "Partners.",
         "members": [
           {
+            "id": "101",
+            "href": "#101",
             "member": "Valentina Wolovik",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba. ",
+            "text2": "En ese mismo año, comenzó su actividad profesional en los Tribunales Provinciales de Córdoba, desempeñándose como pasante en la  “Sala Décima del Trabajo”. A nivel académico, en el año 1998, se incorporó como Adscripta a la Cátedra de Derecho del Trabajo y la Seguridad Social en la Universidad Nacional de Córdoba. ",
+            "text3": "En el año 1999, se incorporó al “Estudio Jurídico Julio Manuel González & Asociados”, firma dedicada al asesoramiento de empresas, como  “Abogada Consultora Junior”. En esta etapa manejó asuntos laborales y ejecuciones prendarias de grandes empresas.  En el año 1999, se incorporó al “Estudio Jurídico Julio Manuel González & Asociados”, firma dedicada al asesoramiento de empresas, como  “Abogada Consultora Junior”. En esta etapa manejó asuntos laborales y ejecuciones prendarias de grandes empresas.  ",
+            "text4": "En el año 2001, se incorporó al Estudio jurídico “Gatica & Chasseing – Abogados”, firma dedicada tal asesoramiento de empresas, donde se desempeñó como “Abogada Consultora Senior” en asuntos laborales y sindicales. Allí también realizó el asesoramiento y el seguimiento de juicios laborales de importantes empresas A mediados del año 2006, dejó el estudio Gatica & Chasseing – Abogados. ",
+            "text5": "A fines del 2006, se incorporó como socia del estudio  'Sappia & Asociados', dedcado exclusivamente al asesoramiento del Derecho Laboral (tanto individual como colectivo), en la oficina ubicada en calle Santa Rosa Nro. 938, 1ero A, de la ciudad de Córdoba.  En noviembre de 2012, se hizo cargo de la oficina Cerro de las Rosas del mismo estudio. ",
+            "text6": "En enero de 2019, formó su propio estudio: 'Wolovik & Asociados - Abogados', en el que conjuntamente con un equipo de profesionales especializado, realiza el asesoramiento a empresas tanto pequeñas como grandes, interviniendo en litigios en toda la Provincia de Córdoba, asesoramiento y acompañamiento administrativo en el Ministerio de Trabajo  y asesoramiento e intervención en conflictos gremiales. Realiza constantemente cursos de perfeccionamiento y trabajos de investigación relacionados con el área profesional que ejerce."
           }
         ]
         
@@ -92,19 +105,28 @@
         "title": "Associates.",
         "members":[
           {
+            "id": "201",
+            "href": "#201",
             "member": "Abogado 1",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "202",
+            "href": "#202",
             "member": "Abogado 2",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "203",
+            "href": "#203",
             "member": "Abogado 3",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           }
         ]
       },
@@ -112,23 +134,32 @@
         "title": "Of Counsel.",
         "members":[
           {
+            "id": "301",
+            "href": "#301",
             "member": "Consultor 1",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "302",
+            "href": "#302",
             "member": "Consultor 2",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           },
           {
+            "id": "303",
+            "href": "#303",
             "member": "Consultor 3",
             "img": "",
-            "text1": ""
+            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
+            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
           }
         ]
       }
-      
+
      
     }
   }
