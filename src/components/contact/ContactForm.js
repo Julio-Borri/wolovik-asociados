@@ -63,8 +63,6 @@ class ContactForm extends React.Component {
       </Form>
     )
   }
-
-
 }
 
 export default withTranslation('translations')(ContactForm)

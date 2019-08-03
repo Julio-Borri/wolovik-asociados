@@ -9,7 +9,7 @@ function HomePicture({ t }) {
     <ContainerPictureHome2 fluid bg={bgHeader}>
       <Container className="mt-5">
       <TextResponsiveWhiteShadow className="m-auto text-justify"
-            largeHeight="30px" normalHeight="25px" smallHeight="20px">
+            largeHeight="22px" normalHeight="20px" smallHeight="16px">
             {t('Carousel.text3')}<br /><br />
             {t('Carousel.text4')}<br /><br />
             {t('Carousel.text5')}

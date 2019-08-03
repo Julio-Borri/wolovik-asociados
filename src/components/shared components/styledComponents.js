@@ -39,6 +39,19 @@ export const TextResponsive = styled.h3`
   };
 `
 
+export const TextResponsiveNone = styled.h3`
+  color: ${props => props.color || "var(--mainBlue)"};;
+  font-family: 'Times New Roman', 'TimesNewRoman',Times,'Baskerville',Georgia,serif; 
+  font-size: ${props => props.largeHeight};
+  @media screen and (max-width: 992px) {
+    font-size: ${props => props.normalHeight};
+  };
+  @media screen and (max-width: 767px) {
+    font-size: ${props => props.smallHeight};
+    display: none;
+  };
+`
+
 export const TextResponsiveWhiteShadow = styled.h3`
   color: ${props => props.color || "var(--mainBlue)"};;
   font-family: 'Times New Roman', 'TimesNewRoman',Times,'Baskerville',Georgia,serif; 

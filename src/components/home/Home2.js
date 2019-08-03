@@ -1,7 +1,7 @@
 import React from 'react';
 import Header from './Header';
-import CarouselHome from './CarouselHome';
 import MainEstudio from './MainEstudio';
+import DivisionCobranzas from './DivisionCobranzas';
 import HomePicturePlusText from './HomePicturePlusText';
 
 export default function Home() {
@@ -10,6 +10,7 @@ export default function Home() {
       <Header />
       <HomePicturePlusText />
       <MainEstudio />
+      <DivisionCobranzas />
     </React.Fragment>
   )
 }

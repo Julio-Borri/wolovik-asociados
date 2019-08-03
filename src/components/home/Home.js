@@ -3,6 +3,7 @@ import Header from './Header';
 import CarouselHome from './CarouselHome';
 import HomePicture from './HomePicture';
 import MainEstudio from './MainEstudio';
+import DivisionCobranzas from './DivisionCobranzas';
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <CarouselHome />
       <HomePicture />
       <MainEstudio />
+      <DivisionCobranzas />
     </React.Fragment>
   )
 }

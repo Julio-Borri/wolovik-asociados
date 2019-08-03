@@ -27,23 +27,32 @@
       }
     ],
     "Carousel": {
-      "text1": "Asesoramiento a Grandes, Pequeñas y Medianas Empresas en el desarrollo de sus negocios y resolución de sus conflictos.",
-      "text2": "Estudio Jurídico orientado a la atención integral de empresas.",
+      "text1": "Asesoramiento en materia de Derecho Laboral a  Pequeñas, Medianas y Grandes Empresas.",
+      "text2": "Brindamos a nuestros clientes acompañamiento y asistencia personalizada, interactuando permanentemente con el área  de Recursos Humanos, involucrándonos en la política laboral de la empresa.",
       "text3": "Asesoramiento en materia del derecho laboral a Pequeñas, Medianas y Grandes Empresas.",
       "text4": "Brindamos a nuestros clientes acompañamiento y asistencia personalizada, trabajando codo a codo con el área de recursos humanos, involucrándonos en la Política laboral de la empresa.",
       "text5": "Este concepto tiene como premisa la prevención de riesgos y disminución de contingencias laborales, no solo en las relaciones individuales del trabajo sino también en las relaciones colectivas (negociación e intervención en conflictos gremiales). "
     },
     "MainEstudio": {
-      "title": "El Estudio.",
-      "text1": "Wolovik & Asociados – Abogados, a cargo de la Dra. Valentina Wolovik con más de veinte años de experiencia profesional, especialista en Derecho Laboral tanto individual como colectivo.",
-      "text2": "El Estudio brinda asesoramiento a Pequeñas, Medianas y Grandes empresas de diferentes rubros y está integrado por un equipo de profesionales capacitados para desempeñar dicho servicio. La premisa de su fundadora, es 'la atención personalizada y el acompañamiento cotidiano a sus clientes', tanto en la faz preventiva como en la de resolución de conflictos extrajudiciales y judiciales.",
-      "text3": "Se encuentra ubicado en calle Juan Bautista Daniel 2015 Oficina '6' en el barrio Cerro de las Rosas de la Ciudad de Córdoba y además cuenta con una sede en Independencia 362, 1er piso Ofic. '7', en el Centro de la ciudad, donde 'Wolovik & Asociados – Abogados' ofrece el servicio de 'Gestión de Cobranzas' dirigido al recupero crediticio de carteras morosas.",
-      "text4": "No escapa a nuestro conocimiento que en la actualidad, dentro de la dinámica del Mercado existen diversas operaciones y transacciones tanto comerciales como financieras y que quien asume compromisos de pago en muchas ocasiones, incurre en incumplimientos al momento de tener que hacer frente a los mismos.",
-      "text5": "Por tal motivo, entendemos que se ha tornado una necesidad ineludible para las empresas el recupero de dichos créditos y para ello ofrecemos un amplio abanico de soluciones al respecto, tanto en su faz extrajudicial como judicial.",
-      "text6": "A tal fin, el Estudio dispone de todas las herramientas necesarias para llevar adelante un efectivo logro de los resultados."
+      "title1": "El Estudio.",
+      "title2": "División Cobranzas.",
+      "theFirm": "Wolovik & Asociados – Abogados, ",
+      "draWolovik": "Dra. Valentina Wolovik, ",
+      "text1": "a cargo de la ",
+      "text2": "con más de veinte años de experiencia profesional, su especialidad es el Derecho Laboral,  tanto individual como colectivo.",
+      "text3": "El estudio brinda asesoramiento a Pequeñas, Medianas y Grandes empresas de diferentes rubros y está integrado por un equipo de profesionales capacitados para desempeñar dicho servicio. La premisa de su fundadora es “la atención personalizada y el acompañamiento cotidiano a sus clientes”. Este concepto tiene como finalidad la prevención de riesgos y disminución de contingencias laborales, no sólo en las relaciones individuales del trabajo, sino también en las relaciones colectivas, negociando e interviniendo en conflictos gremiales.",
+      "text4": "El Estudio se encuentra en calle Juan Bautista Daniel 2015 Oficina “6”,  en el Barrio Cerro de las Rosas de la Ciudad de Córdoba y además cuenta con una sede en calle  Independencia 362, 1er piso Ofic. “7”, en el Centro de la ciudad, donde ",
+      "text5": "ofrece el servicio de ",
+      "text6": "'Gestión de Cobranzas' ",
+      "text7": "dirigido  al recupero crediticio de carteras morosas."
+    },    
+    "cobranzas": {
+      "text1": "No escapa a nuestro conocimiento que en la actualidad, dentro de la dinámica del Mercado existen diversas operaciones y transacciones tanto comerciales como financieras y que quien asume compromisos de pago en muchas ocasiones, incurre en incumplimientos al momento de tener que hacer frente a los mismos.",
+      "text2": "Por tal motivo, entendemos que se ha tornado una necesidad ineludible para las empresas el recupero de dichos créditos y para ello ofrecemos un amplio abanico de soluciones al respecto, tanto en su faz extrajudicial como judicial.",
+      "text3": "A tal fin, el Estudio dispone de todas las herramientas necesarias para llevar adelante un efectivo logro de los resultados."
     },
     "Footer": {
-      "clients": "Confían en Nosotros.",
+      "clients": "Nuestros Clientes.",
       "title1": "Contactanos.",
       "title2": "Recibí nuestras novedades.",
       "telephone": {
@@ -83,7 +92,7 @@
     },
     "lawyers": {
       "partners": {
-        "title": "Socios.",
+        "title": "Socia.",
         "members": [
           {
             "id": "101",
@@ -101,7 +110,7 @@
         
       },
       "associates": {
-        "title": "Asociados.",
+        "title": "Asociadas.",
         "members":[
           {
             "id": "201",

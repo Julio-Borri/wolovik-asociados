@@ -11,9 +11,6 @@ import LawyerCVColumn from './LawyerCVColumn';
 function Lawyers({ t }) {
   const associatesCVs1 = t('lawyers.associates.members', { returnObjects: true }).slice(0, 3).map(
     item => <LawyerCVColumn item={item} />)
-  const ofCounselCvs1 = t('lawyers.ofCounsel.members', { returnObjects: true }).slice(0, 3).map(
-    item => <LawyerCVColumn item={item} />)
-
 
   return (
     <React.Fragment>
@@ -38,14 +35,6 @@ function Lawyers({ t }) {
         </TextResponsive>
         <Row>
           {associatesCVs1}
-        </Row>
-      </Container>
-      <Container className="mt-5 px-4">
-        <TextResponsive largeHeight="35px" normalHeight="30px" smallHeight="30px" className="mb-5">
-          {t('lawyers.ofCounsel.title')}
-        </TextResponsive>
-        <Row>
-          {ofCounselCvs1}
         </Row>
       </Container>
     </React.Fragment>
