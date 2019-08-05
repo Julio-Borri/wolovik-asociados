@@ -22,6 +22,7 @@ function App({ t }) {
         <Route path="/lawyers" component={Lawyers} />
         <Route path="/legal-practice-areas" component={PracticeAreas} />
         <Route path="/newsletter" component={Newsletter} />
+        <Route path="/react/estudiowolovik/cargarNewsletters" component={Newsletter} />
         <Route path="/contact" component={Contact} />
       </Switch>
       <Footer />

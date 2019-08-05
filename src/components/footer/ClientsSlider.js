@@ -14,13 +14,13 @@ function ClientsSlider({ t }) {
 
   return (
     <Row className="bg-light">
-      <Col xs={12} md={3} className="my-auto text-center">
+      <Col xs={12} md={2} className="my-auto text-center">
         <TextResponsiveNone 
           largeHeight="20px" normalHeight="20px" smallHeight="18px" color="gray">
           {t('Footer.clients')}
         </TextResponsiveNone>
       </Col>
-      <Col xs={12} md={9}>
+      <Col xs={12} md={10}>
         <SliderEmpresas>
           <ClientesDiv className="d-flex align-items-center">
             <div className="d-flex ">
@@ -57,5 +57,5 @@ position: absolute;
   top: 0;
   height: 100%;
   transform: translate3d(0, 0, 0);
-  animation: ${slideshow} 30s linear infinite;
+  animation: ${slideshow} 50s linear infinite;
 `
