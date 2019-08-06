@@ -1,0 +1,34 @@
+{
+  "newsletters": [
+    {
+      "id_newsletter": "3",
+      "titulo": "Newsletter 2",
+      "contenido": "Aca va el contenido del newsletter 2",
+      "id_tipo_derecho": "4",
+      "fecha": "2019-08-02 18:28:27",
+      "adjunto": "",
+      "activo": "1",
+      "tipoderecho": "Derecho Penal"
+    },
+    {
+      "id_newsletter": "4",
+      "titulo": "Newsletter cargado de pagina modificado",
+      "contenido": "Este es un newsletter cargado desde la pagina para ver si anda y fue modificado desde la pagina",
+      "id_tipo_derecho": "6",
+      "fecha": "2019-08-02 22:23:51",
+      "adjunto": "",
+      "activo": "1",
+      "tipoderecho": "Derecho Administrativo"
+    },
+    {
+      "id_newsletter": "5",
+      "titulo": "Newsletter cargado y modificado de pagin",
+      "contenido": "Estoy probando a ver si todo va bien",
+      "id_tipo_derecho": "2",
+      "fecha": "2019-08-02 17:57:14",
+      "adjunto": "",
+      "activo": "1",
+      "tipoderecho": "Derecho Laboral"
+    }
+  ]
+}
