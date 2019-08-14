@@ -20,7 +20,8 @@ import empresa23 from './img/empresas/empresa23.png';
 import empresa24 from './img/empresas/empresa24.png';
 import empresa25 from './img/empresas/empresa25.png';
 import empresa26 from './img/empresas/empresa26.png';
-
+import imgCv1 from './img/FlaviaLovera.png';
+import imgCv2 from './img/FlaviaLovera.png';
 
 const data = {
   brandName: "&",
@@ -112,6 +113,16 @@ const data = {
     {
       id: 26,
       img: empresa26,
+    },
+  ],
+  cvImg: [
+    {
+      id: 1,
+      img: imgCv1,
+    },
+    {
+      id: 2,
+      img: imgCv2,
     },
   ]
 }

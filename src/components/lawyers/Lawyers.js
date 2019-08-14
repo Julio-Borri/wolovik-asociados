@@ -5,12 +5,13 @@ import brandLogo from '../../img/WolovikLogoCompleto.png';
 import { withTranslation, } from 'react-i18next';
 import LawyerList from './LawyerList';
 import LawyerPicture from './LawyerPicture';
-import LawyerCV from './LawyerCV';
+import LawyerCV2 from './LawyerCV2';
 import LawyerCVColumn from './LawyerCVColumn';
+import data from '../../informacion';
 
 function Lawyers({ t }) {
-  const associatesCVs1 = t('lawyers.associates.members', { returnObjects: true }).slice(0, 3).map(
-    item => <LawyerCVColumn item={item} />)
+  // const associatesCVs1 = t('lawyers.associates.members', { returnObjects: true }).slice(0, 3).map(
+  //   item => <LawyerCVColumn item={item} />)
 
   return (
     <React.Fragment>
@@ -24,17 +25,37 @@ function Lawyers({ t }) {
       <LawyerList />
       <LawyerPicture />
       <Container className="mt-5 px-4">
-        <TextResponsive largeHeight="35px" normalHeight="30px" smallHeight="30px" className="my-5">
+        <TextResponsive largeHeight="35px" normalHeight="30px" smallHeight="30px" className="my-4">
           {t('lawyers.partners.title')}
         </TextResponsive>
-        <LawyerCV />
+        <LawyerCV2 />
       </Container>
       <Container className="mt-5 px-4">
         <TextResponsive largeHeight="35px" normalHeight="30px" smallHeight="30px" className="mb-5">
           {t('lawyers.associates.title')}
         </TextResponsive>
         <Row>
-          {associatesCVs1}
+          {/* {associatesCVs1} */}
+          <LawyerCVColumn 
+            img={data.cvImg[0].img} 
+            id={t('lawyers.associates.members.0.id')} 
+            member={t('lawyers.associates.members.0.member')} 
+            text1={t('lawyers.associates.members.0.text1')} 
+            text2={t('lawyers.associates.members.0.text2')} 
+            text3={t('lawyers.associates.members.0.text3')} 
+            text4={t('lawyers.associates.members.0.text4')} 
+            text5={t('lawyers.associates.members.0.text5')} 
+            text6={t('lawyers.associates.members.0.text6')} 
+          /> 
+          <LawyerCVColumn 
+            img={data.cvImg[1].img} 
+            id={t('lawyers.associates.members.1.id')} 
+            member={t('lawyers.associates.members.1.member')} 
+            text1={t('lawyers.associates.members.1.text1')} 
+            text2={t('lawyers.associates.members.1.text2')} 
+            text3={t('lawyers.associates.members.1.text3')} 
+            text4={t('lawyers.associates.members.1.text4')} 
+          /> 
         </Row>
       </Container>
     </React.Fragment>

@@ -116,52 +116,34 @@
           {
             "id": "201",
             "href": "#201",
-            "member": "Abogado 1",
+            "member": "Flavia Lovera",
             "img": "",
-            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
-            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
+            "text1": "En el año 2011 comenzó sus estudios universitarios en la Facultad de Derecho de la Universidad Nacional de Córdoba.",
+            "text2": "Apenas iniciaba su carrera de grado, en el año 2012 y a sus 19 años de edad, comenzó a transitar los primeros pasos de su carrera laboral en Banco Santander Río. Luego de 4 años, en el año 2016 se incorporó al área de legales de la empresa desarrollista inmobiliaria Grupo Ecipsa.",
+            "text3": "Desde el año 2017 y hasta la actualidad se desempeña como Asistente de Legales en Instituto Conci Carpinella, y forma parte del equipo de profesionales del estudio jurídico “Wolovik & Asociados- Abogados”.",
+            "text4": "A finales del año 2018, se egresó con el título de “Abogada” de la Universidad Nacional de Córdoba y obtuvo un reconocimiento por parte de dicha Institución como “egresada sobresaliente” por haber finalizado sus estudios académicos con un promedio general de 8.94 puntos.",
+            "text5": "A nivel académico, y siempre apostando al profesionalismo, en el año 2017 comenzó a especializarse en Derecho Laboral. Cuenta con dos títulos de posgrado expedidos por la Universidad Nacional Tres de Febrero, en virtud de haber realizado la Diplomatura en Derecho Individual del Trabajo, y la Diplomatura en Derecho Colectivo del Trabajo y la Seguridad Social, ambas coordinadas por el Instituto de Estudios Interdisciplinarios en Derecho Social y Relaciones del Trabajo de dicha Universidad.",
+            "text6": "Actualmente, continúa su carrera de formación académica realizando distintos cursos, talleres y seminarios vinculados a su área de especialización."
           },
           {
             "id": "202",
             "href": "#202",
-            "member": "Abogado 2",
+            "member": "Jessica Guibaudo",
             "img": "",
-            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
-            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
-          },
-          {
-            "id": "203",
-            "href": "#203",
-            "member": "Abogado 3",
-            "img": "",
-            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
-            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
+            "text1": "El 12 de agosto de 2015 obtuvo su título de grado de Abogada en la Universidad Nacional de Córdoba.",
+            "text2": "Durante el transcurso de su carrera, comenzó a trabajar en el año 2012 en el estudio jurídico San Emeterio efectuando cobranzas extrajudiciales. Luego en el año 2013 ingresó a trabajar en el estudio jurídico:”Sappia & Asociados” Sucursal Cerro de las Rosas. En  enero de 2019 se incorporó como abogada Asociada Senior, en el Estudio “Wolovik & Asociados Abogados”.",
+            "text3": "A nivel formación, efectuó diversos cursos de perfeccionamiento. En el año 2016 realizó la Diplomatura en Derecho del Trabajo y Relaciones Laborales en el Colegio de Abogados;  en el año 2017 la Diplomatura en Ley de riesgos del trabajo en el Club de Derecho y finalmente durante los años 2018 y 2019 obtuvo dos títulos de postgrado tras haber realizado la Diplomatura en Derecho Individual del Trabajo, y la Diplomatura en Derecho Colectivo del Trabajo y la Seguridad Social, respectivamente, ambas coordinadas por el Instituto de Estudios Interdisciplinarios en Derecho Social y Relaciones del Trabajo de dicha Universidad.",
+            "text4": "Al día de la fecha se desempeña como adscripta de la catedra de Derecho Laboral de la Facultad de Ciencias Económicas en la Universidad Nacional de Córdoba."
           }
         ]
       },
-      "ofCounsel": {
-        "title": "Of Counsel.",
+      "external": {
+        "title": "Asociadas Externas.",
         "members":[
           {
             "id": "301",
             "href": "#301",
-            "member": "Consultor 1",
-            "img": "",
-            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
-            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
-          },
-          {
-            "id": "302",
-            "href": "#302",
-            "member": "Consultor 2",
-            "img": "",
-            "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
-            "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
-          },
-          {
-            "id": "303",
-            "href": "#303",
-            "member": "Consultor 3",
+            "member": "Fanny Grinner",
             "img": "",
             "text1": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba.",
             "text2": "Nacida en el año 1973 en la ciudad de Córdoba. En el año 1991 comenzó sus estudios universitarios de abogacía, en la Universidad Nacional de Córdoba. En el año 1997, a los 23 años, egresó con el título de “Abogada” de la Universidad Nacional de Córdoba."
